@@ -65,6 +65,7 @@
     .content > p {
         font-family: "Open Sans", sans-serif;
         font-weight: 500;
+        max-width: 44rem;
         font-size: 1em;
         color: var(--dark-blue);
     }
