@@ -1,5 +1,5 @@
 <script type="ts">
-    import Illustration from "../../assets/images/illustration-1.svg";
+    import Illustration from "../assets/images/illustration-1.svg";
     let email = "";
     let valid = true;
     const ValidateEmail = (e) => {

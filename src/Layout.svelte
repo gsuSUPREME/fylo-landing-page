@@ -3,11 +3,13 @@
   import Title from "./components/Title.svelte";
   import Article from "./components/Article.svelte";
   import Section from "./components/Section.svelte";
+  import Footer from "./components/Footer.svelte";
 </script>
 <Navbar />
   <Title/>
   <Article />
   <Section />
+  <Footer />
 
 
   <div>

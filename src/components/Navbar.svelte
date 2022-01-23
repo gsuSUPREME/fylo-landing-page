@@ -1,5 +1,5 @@
 <script lang="ts">
-    import logo from "../../assets/images/logo.svg";
+    import logo from "../assets/images/logo.svg";
 </script>
 
 
@@ -21,9 +21,11 @@
     }
     .navbar img {
         width: 14%;
+        max-width: 8rem;
     }
     .navbar {
         padding: 1rem;
+        padding-left: 1.9rem;
         display: flex;
         align-items: center;
         justify-content: space-between;
