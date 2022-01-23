@@ -53,5 +53,4 @@ I learned the basics of svelte in the entire process.
 - Frontend Mentor - [@gsuSUPREME](https://www.frontendmentor.io/profile/gsuSUPREME)
 - Whatsapp - [+58-424-625-0126](https://wa.link/4eyndv)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
