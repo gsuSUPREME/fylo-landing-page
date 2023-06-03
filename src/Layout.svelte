@@ -16,7 +16,7 @@
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
       <!-- svelte-ignore a11y-invalid-attribute -->
-      Coded by <a href="https://github.com/gsuSUPREME/">gsuSUPREME</a>.
+      Coded by <a href="https://github.com/gsuxd/">gsuxd</a>.
     </p>
   </div>
 
